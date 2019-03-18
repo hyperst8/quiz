@@ -1,0 +1,15 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "quiz game via API",
+  "main": "index.js",
+  "homepage": "https://hyperst8.github.io/quiz",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
